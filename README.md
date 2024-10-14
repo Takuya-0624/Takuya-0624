@@ -1,4 +1,4 @@
-#TMER"TK"1986.06.24TT
+#TMER"TK"
 
 <!--
 **Takuya-0624/Takuya-0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
